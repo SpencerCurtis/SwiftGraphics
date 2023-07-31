@@ -8,6 +8,7 @@
 
 import Foundation
 import AppKit
+import CoreGraphics
 
 public extension Sketch {
     /// Draws the sketch to an image

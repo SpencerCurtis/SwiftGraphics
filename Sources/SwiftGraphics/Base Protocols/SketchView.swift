@@ -6,6 +6,7 @@
 //
 
 import AppKit
+import CoreGraphics
 
 /// A basic subclass of NSView for displaying a `Sketch`
 open class SketchView: NSView {

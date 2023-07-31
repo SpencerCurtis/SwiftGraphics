@@ -7,6 +7,7 @@
 //
 
 import AppKit
+import CoreGraphics
 
 /// Represents a multi-point path
 public class Path: Shape {

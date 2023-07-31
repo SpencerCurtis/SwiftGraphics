@@ -1,5 +1,6 @@
 import Foundation
 import AppKit
+import CoreGraphics
 
 /// The base protocol for any shape that is drawable on screen
 public protocol Shape {

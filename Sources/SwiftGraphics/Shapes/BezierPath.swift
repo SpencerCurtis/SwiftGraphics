@@ -7,7 +7,7 @@
 //
 
 import AppKit
-
+import CoreGraphics
 
 /// A parametric curve
 public class BezierPath: Shape {
